@@ -8,9 +8,9 @@ Requirements:
 Installation:
 - install python3, pipenv and git if not already present on the system.
 - run the following commands:
-    git clone https://github.com/radhey1851/extract-reddit-savedposts.git
-    cd extract-reddit-savedposts
-    pipenv install
+   - git clone https://github.com/radhey1851/extract-reddit-savedposts.git
+   - cd extract-reddit-savedposts
+   - pipenv install
 
 Usage:
 - first get client_id and client_secret by creating a reddit script app in the
